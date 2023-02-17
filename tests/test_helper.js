@@ -17,7 +17,6 @@ const initialBlogs = [
     title: 'How to Automatically Cross-post from Your GatsbyJS Blog with RRS',
     author: 'Dane Stevens',
     url: 'https://www.freecodecamp.org/news/how-to-automatically-cross-post-from-your-gatsbyjs-blog-with-rss/',
-    likes: 32
   }
 ]
 
